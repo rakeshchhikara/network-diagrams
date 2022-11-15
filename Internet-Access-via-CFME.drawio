@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T14:05:23.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="p4rXYut5jjeCUPRO4zO0" type="github"><diagram id="A6qQH7opqVmABGpbb_EZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-15T14:13:35.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZlUoLHYJ3JE0LpT3KtJg" version="20.5.3" type="github">
+  <diagram id="A6qQH7opqVmABGpbb_EZ" name="Page-1">
+    <mxGraphModel dx="1426" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dOKAu6CNuJn2iG0oKEDn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="190" width="300" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="dOKAu6CNuJn2iG0oKEDn-2" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="200" width="70" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dOKAu6CNuJn2iG0oKEDn-4" value="Kube-Master" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="333" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="dOKAu6CNuJn2iG0oKEDn-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOKAu6CNuJn2iG0oKEDn-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="359" as="sourcePoint" />
+            <mxPoint x="1170" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dOKAu6CNuJn2iG0oKEDn-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="1280" y="369" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="dOKAu6CNuJn2iG0oKEDn-10" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="500" width="70" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="dOKAu6CNuJn2iG0oKEDn-11" value="Private-SW1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="90" height="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
